@@ -58,7 +58,8 @@ def miners():
                                 "D3": {"value": 0, "unit": "MH/s" },
                                 "T9": {"value": 0, "unit": "TH/s" },
                                 "A3": {"value": 0, "unit": "GH/s" },
-                                "L3": {"value": 0, "unit": "MH/s" },}
+                                "L3": {"value": 0, "unit": "MH/s" },
+                                "Z9m": {"value": 0, "unit": "Ksol/s" },}
                                 
     errors = False
     miner_errors = {}
